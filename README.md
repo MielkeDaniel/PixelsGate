@@ -1,7 +1,5 @@
 # [UNNAMED YET] - 2D Top-Down Pixel Art RPG
 
-![Game Banner or Logo](URL_TO_GAME_BANNER_OR_LOGO)
-
 Welcome to the official repository of **[Your Game Name]**, a 2D top-down pixel art role-playing game (RPG) built with Unity. Dive into a pixelated world full of adventure, mysteries, and challenges. Created by the developers of the fabulous "Rollaball", this game is a labor of love and a testament to our journey through game development, cuz we lit af.
 
 ## About The Game
@@ -18,14 +16,14 @@ To get a copy of the project up and running on your local machine for developmen
 
 ### Prerequisites
 
-- Unity [specify version, e.g., 2020.3.10f1] or later
+- Unity, e.g., 2022.3.20f1 or later
 - Git
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yourusername/yourgamename.git
+   git clone https://github.com/MielkeDaniel/PixelsGate.git
    ```
 2. Open the project in Unity
 3. Navigate to the `Scenes` folder and open the `Main` scene to start the game
