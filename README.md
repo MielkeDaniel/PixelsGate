@@ -1,6 +1,6 @@
-# [UNNAMED YET] - 2D Top-Down Pixel Art RPG
+2D Top-Down Pixel Art RPG
 
-Welcome to the official repository of **[Your Game Name]**, a 2D top-down pixel art role-playing game (RPG) built with Unity. Dive into a pixelated world full of adventure, mysteries, and challenges. Created by the developers of the fabulous "Rollaball", this game is a labor of love and a testament to our journey through game development, cuz we lit af.
+Welcome to the official repository of this 2D top-down pixel art role-playing game (RPG) built with Unity. Dive into a pixelated world full of adventure, mysteries, and challenges. Created by the developers of the fabulous "Rollaball", this game is a labor of love and a testament to our journey through game development, cuz we lit af.
 
 ## About The Game
 
